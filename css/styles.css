@@ -1,0 +1,49 @@
+/* add your CSS here */
+
+.font { 
+	font-family: Arial,Helvetica,sans-serif;
+	color:white;
+}
+.background {background-color:#2C2C2A;
+
+}
+
+.text {
+	font-size: 14px;
+}
+
+.padding {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+} 
+
+#img {
+    width: 300px;
+    height: 200px;
+}
+
+.border {
+	border-style: solid;
+	border-width: 1px;
+	border-color:white;
+	max-width: 300px;
+}
+.margin {
+	margin-top: 20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.nobullets {
+	list-style-type: none;
+	padding: 0px;
+}
+
+.paddingleftonly {
+	padding-left: 10px;
+}
+
+
